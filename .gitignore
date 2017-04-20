@@ -1,0 +1,16 @@
+# log files #
+###################
+*.csv
+
+# chekpoint #
+###################
+ckpt/
+
+# tensorboard log #
+###################
+TB_log/
+
+# python stuff #
+###################
+__pycache__/
+.idea/
